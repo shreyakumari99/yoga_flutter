@@ -32,12 +32,18 @@ Share the app with friends using Share with Friends.
 Let us know how we’re doing with Rate Us.
 
 🌟 Future Enhancements
+
 🔥 Add guided video sessions.
+
 📊 Provide progress tracking and analytics.
+
 🧘‍♀️ Expand yoga routines with advanced options.
 
 Future Enhancements
+
 Add more yoga routines and categories.
+
 Include guided video sessions.
+
 Provide progress tracking and analytics.
 
