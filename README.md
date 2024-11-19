@@ -1,34 +1,32 @@
-Yoga App for Beginners
-A beginner-friendly yoga app designed to help users perform yoga with ease and convenience. This app provides detailed yoga descriptions, session controls, daily yoga packages, and personalization features.
+🧘‍♀️ Yoga App for Beginners
+Your personal guide to yoga! This app is designed for beginners, offering a variety of yoga routines, personalized features, and tools to make your yoga practice seamless and enjoyable. 🌟
 
-Features
-Explore Yoga Types
-Browse through a list of yoga routines with detailed descriptions to suit your needs.
+✨ Features at a Glance
+💡 Explore Yoga Routines
 
-Start Yoga Session
+A curated list of yoga types with detailed descriptions to suit your goals.
+🕒 Yoga Session Control
 
-Select any yoga and click Start Yoga to begin.
-Timer functionality to track your session:
-Play and Pause the timer.
-Finish Yoga to end your session.
-Next Yoga to jump to the next routine.
-Yoga Packages
-Choose daily yoga packages consisting of 4–5 yoga routines for consistent practice.
+Start Yoga: Begin your session with ease.
+Timer Control: Play ⏯️, Pause ⏸️, Finish ✅, or skip to the Next Yoga ➡️.
+📦 Yoga Packages
 
-User Profile
-Personalize your experience by creating and managing your profile.
+Daily yoga routines with 4–5 preset yoga sequences for consistent practice.
+👤 Personalized Profiles
 
-Sharing and Rating
+Create your own profile and tailor your yoga journey.
+🔔 Notifications
 
-Share the app with friends using the Share with Friends button.
-Rate the app with the Rate Us feature.
+Get notified when your yoga session starts, keeping you on track.
+🌍 Share & Rate
 
-Dependencies
-Flutter SDK
-Timer Widgets: flutter_timer
-Share & Rate:
-share
-in_app_review
+Share the app with friends using Share with Friends.
+Let us know how we’re doing with Rate Us.
+
+🌟 Future Enhancements
+🔥 Add guided video sessions.
+📊 Provide progress tracking and analytics.
+🧘‍♀️ Expand yoga routines with advanced options.
 
 Future Enhancements
 Add more yoga routines and categories.
