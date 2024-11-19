@@ -1,16 +1,37 @@
-# yoga_app
+Yoga App for Beginners
+A beginner-friendly yoga app designed to help users perform yoga with ease and convenience. This app provides detailed yoga descriptions, session controls, daily yoga packages, and personalization features.
 
-A new Flutter project.
+Features
+Explore Yoga Types
+Browse through a list of yoga routines with detailed descriptions to suit your needs.
 
-## Getting Started
+Start Yoga Session
 
-This project is a starting point for a Flutter application.
+Select any yoga and click Start Yoga to begin.
+Timer functionality to track your session:
+Play and Pause the timer.
+Finish Yoga to end your session.
+Next Yoga to jump to the next routine.
+Yoga Packages
+Choose daily yoga packages consisting of 4–5 yoga routines for consistent practice.
 
-A few resources to get you started if this is your first Flutter project:
+User Profile
+Personalize your experience by creating and managing your profile.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Sharing and Rating
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Share the app with friends using the Share with Friends button.
+Rate the app with the Rate Us feature.
+
+Dependencies
+Flutter SDK
+Timer Widgets: flutter_timer
+Share & Rate:
+share
+in_app_review
+
+Future Enhancements
+Add more yoga routines and categories.
+Include guided video sessions.
+Provide progress tracking and analytics.
+
